@@ -1,0 +1,15 @@
+spring:
+  cloud: 
+    zookeeper:
+      connect-string: 192.168.14.101:2181
+      config:
+        enabled: true  
+        root: wkconf
+        defaultContext: wksso
+        profileSeparator: '-'
+        watcher: 
+          enabled: true
+  application: 
+    name: wksso
+  profiles: 
+    active: dev    

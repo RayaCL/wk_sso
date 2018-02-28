@@ -1,0 +1,8 @@
+cn\et\wk\sso\system\dao\UserInfoMapper.class
+cn\et\wk\sso\system\dao\DbConfiguration.class
+cn\et\wk\sso\system\dao\UserProvider.class
+cn\et\wk\sso\system\dao\RoleInfoMapper.class
+cn\et\wk\sso\system\dao\FunctionProvider.class
+cn\et\wk\sso\system\dao\FunctionMapper.class
+cn\et\wk\sso\system\dao\RoleProvider.class
+cn\et\wk\sso\system\dao\MenuInfoMapper.class

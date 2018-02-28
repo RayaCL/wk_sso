@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: wk_sso_repository
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Endless
+Implementation-Vendor-Id: cn.et
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/wk_parent/wk
+ _sso/wk_sso_repository/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

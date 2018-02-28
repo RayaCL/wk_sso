@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>wk_sso</artifactId>
+  <packaging>pom</packaging>
+  <parent>
+    <groupId>cn.et</groupId>
+	<artifactId>wk_parent</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<relativePath>../wk_parent</relativePath>
+  </parent>
+  <dependencies>
+  	<dependency>
+  		<groupId>cn.et</groupId>
+		<artifactId>wk_common</artifactId>
+		<version>${CURRENT-VERSION}</version>
+  	</dependency>
+  </dependencies>
+  <modules>
+  	<module>wk_sso_repository</module>
+  	<module>wk_sso_service</module>
+  	<module>wk_sso_web</module>
+  </modules>
+</project>
